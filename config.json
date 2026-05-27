@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcncrypt",
+        "uuid": 13028241,
+        "checksum": "ktzz7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
